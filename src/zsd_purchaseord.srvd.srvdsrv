@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition PO'
+define service ZSD_PURCHASEORD {
+  expose ZCMM_PURCHASEORD_CE;
+}

@@ -1,0 +1,7 @@
+@EndUserText.label: 'ZSCM_8062_PURCHORD'
+@OData.schema.name: 'ZMMGW_PURCHASE_ORDER_SRV'
+define service ZSCM_8062_PURCHORD {
+ expose ZZCMM_PURCHASEORDER; 
+ expose ZZCMM_PURCHORD_ITEM; 
+ expose ZZIMM_PURCHASEORDERITEMNOTE; 
+ } 
